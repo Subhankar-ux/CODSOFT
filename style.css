@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin-top: 25px;
+}
+table{
+    margin: auto;
+}
+input{
+    height: 50px;
+    font-size: 34px;
+    border: 2.5px solid green;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+button {
+        font-size: 30px;
+        background: black;
+        width: 102px;
+        height: 58px;
+        border-radius: 20px;
+        color: white;
+}
+.calculator{
+    /* display: inline-block; */
+    background-color: blanchedalmond;
+    display: inline-block;
+    padding: 23px;
+    border-radius: 15px;
+}
+#casio{
+   margin-top: auto;
+}
+
